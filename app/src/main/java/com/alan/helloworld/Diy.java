@@ -10,4 +10,5 @@ package com.alan.helloworld;
  */
 public class Diy {
     private int a = 100;
+    private int b = 200;
 }
