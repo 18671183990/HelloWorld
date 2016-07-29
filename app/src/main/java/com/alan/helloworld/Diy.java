@@ -9,5 +9,5 @@ package com.alan.helloworld;
  * desc: 测试类
  */
 public class Diy {
-
+    private int a = 100;
 }
